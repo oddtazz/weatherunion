@@ -28,7 +28,7 @@ To use this Python code, you need to follow these steps:
 
 ## Sample output
 ```~$ python weather.py
-Temprature: 22.72 Degrees C
+Temprature: 22.72 °C
 Humidity: 83.32%
 Wind Speed: 0.84 km/h
 Wind Direction: 289.2 Degrees
