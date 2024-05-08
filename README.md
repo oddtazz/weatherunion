@@ -1,6 +1,7 @@
 # WeatherUnion
 
 WeatherUnion is a sample project that utilizes data from [WeatherUnion](https://www.weatherunion.com) to retrieve weather information.
+The intention is for you to use this script in your home projects to display the weather data.
 
 ## Usage
 
