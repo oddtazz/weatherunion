@@ -1,5 +1,7 @@
 # WeatherUnion
 
+In [this](https://twitter.com/deepigoyal/status/1788153382609248404) tweet zomato announced a local weather monitoring network, where they are giving access to their ratelimite APIs (1000 requests/24 hours).
+
 WeatherUnion is a sample project that utilizes data from [WeatherUnion](https://www.weatherunion.com) to retrieve weather information.
 The intention is for you to use this script in your home projects to display the weather data.
 
